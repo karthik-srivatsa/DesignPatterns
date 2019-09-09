@@ -1,0 +1,2 @@
+﻿Singleton is when we want only one instance throghout the App.
+Ex: DataBase Respository class

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\FactoryPattern\\FactoryPattern.csproj": {}
+    "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\AbstractFactory\\AbstractFactory.csproj": {
+    "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\SingletonImplementation\\SingletonImplementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\AbstractFactory\\AbstractFactory.csproj",
-        "projectName": "AbstractFactory",
-        "projectPath": "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\AbstractFactory\\AbstractFactory.csproj",
+        "projectUniqueName": "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\SingletonImplementation\\SingletonImplementation.csproj",
+        "projectName": "SingletonImplementation",
+        "projectPath": "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\SingletonImplementation\\SingletonImplementation.csproj",
         "packagesPath": "C:\\Users\\Karth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\AbstractFactory\\obj\\",
+        "outputPath": "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\SingletonImplementation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,11 +41,19 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "morelinq": {
+              "target": "Package",
+              "version": "[3.2.0, )"
             }
           },
           "imports": [
@@ -56,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\FactoryPattern\\FactoryPattern.csproj": {
+    "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\FactoryPattern\\FactoryPattern.csproj",
-        "projectName": "FactoryPattern",
-        "projectPath": "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\FactoryPattern\\FactoryPattern.csproj",
+        "projectUniqueName": "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj",
+        "projectName": "SingletonPattern",
+        "projectPath": "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj",
         "packagesPath": "C:\\Users\\Karth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\FactoryPattern\\obj\\",
+        "outputPath": "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\SingletonPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -73,17 +81,17 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\AbstractFactory\\AbstractFactory.csproj": {
-                "projectPath": "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\AbstractFactory\\AbstractFactory.csproj"
+              "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\SingletonImplementation\\SingletonImplementation.csproj": {
+                "projectPath": "C:\\Users\\Karth\\source\\repos\\DesignPatterns\\DesignPatterns\\SingletonImplementation\\SingletonImplementation.csproj"
               }
             }
           }
@@ -95,13 +103,17 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
             }
           },
           "imports": [

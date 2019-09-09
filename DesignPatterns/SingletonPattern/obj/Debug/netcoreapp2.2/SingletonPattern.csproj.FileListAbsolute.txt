@@ -1,0 +1,16 @@
+C:\Users\Karth\source\repos\DesignPatterns\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.2\appSettings.json
+C:\Users\Karth\source\repos\DesignPatterns\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.2\SingletonPattern.deps.json
+C:\Users\Karth\source\repos\DesignPatterns\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.2\SingletonPattern.runtimeconfig.json
+C:\Users\Karth\source\repos\DesignPatterns\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.2\SingletonPattern.runtimeconfig.dev.json
+C:\Users\Karth\source\repos\DesignPatterns\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.2\SingletonPattern.dll
+C:\Users\Karth\source\repos\DesignPatterns\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.csprojAssemblyReference.cache
+C:\Users\Karth\source\repos\DesignPatterns\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\Karth\source\repos\DesignPatterns\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\Karth\source\repos\DesignPatterns\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.AssemblyInfo.cs
+C:\Users\Karth\source\repos\DesignPatterns\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.2\SingletonPattern.pdb
+C:\Users\Karth\source\repos\DesignPatterns\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.2\SingletonImplementation.dll
+C:\Users\Karth\source\repos\DesignPatterns\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.2\SingletonImplementation.pdb
+C:\Users\Karth\source\repos\DesignPatterns\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.csproj.CopyComplete
+C:\Users\Karth\source\repos\DesignPatterns\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.dll
+C:\Users\Karth\source\repos\DesignPatterns\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.2\SingletonPattern.pdb
+C:\Users\Karth\source\repos\DesignPatterns\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.2\Countries.txt
